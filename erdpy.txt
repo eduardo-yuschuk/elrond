@@ -1,0 +1,4 @@
+###############################################################################
+Upon restarting the user session, [$ erdpy] command should be available in your shell.
+Furthermore, after restarting the user session, you can use [$ source erdpy-activate] to activate the Python virtual environment containing erdpy.
+###############################################################################
